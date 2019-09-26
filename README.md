@@ -1,7 +1,7 @@
 # RUG_Challenge_Aug2019
 August 2019 EKU RUG Challenge Solution in Python
 
-This is my solution for the EKY R-User group mini Challenge for August 2019. For details of the challenge, see: https://ekuresearchanalysis.github.io/RUserGroup/MiniChallenge/2019-08/MiniChallenge.html
+This is my solution for the EKU R-User group mini Challenge for August 2019. For details of the challenge, see: https://ekuresearchanalysis.github.io/RUserGroup/MiniChallenge/2019-08/MiniChallenge.html
 
 It's an R-User group, but this solution was created using Python 3.7.
 
