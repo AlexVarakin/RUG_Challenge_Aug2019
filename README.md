@@ -9,3 +9,5 @@ To run the solution, download the .py and the .csv. The .py file opens the .csv 
 You do not need the .r file - it simply created the csv file. Note: if you choose to run the r file, you'll need to correct the path.
 
 You will need the following Python libraries installed: pandas, scipy, matplotlib. If you are using Anaconda, you should have them already.
+
+Note: There are some typos in the file names and comments... the code works though
