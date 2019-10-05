@@ -12,6 +12,8 @@ import datetime
 from scipy import stats
 import matplotlib.pyplot as plt
 
+print("Hi")
+
 # Ensure that relative paths start from the same directory as this script
 _thisDir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(_thisDir)
